@@ -1,0 +1,22 @@
+{
+  "short_name": "TrainReady",
+  "name": "TrainReady App",
+  "icons": [
+    {
+      "src": "icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#4A90E2",
+  "background_color": "#ffffff",
+  "description": "Your all-in-one training and nutrition tracker",
+  "orientation": "portrait"
+}
